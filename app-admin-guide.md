@@ -23,7 +23,8 @@
 ## 1. Introduction
 This guide provides instructions for managing the **SAGAT App with AI** as an administrator. It covers app access, user management, and common administrative tasks.
 
-[Back to Table of Contents](#8-toc)
+[Back to Table of Contents](#table-of-contents)
+
 
 ---
 
