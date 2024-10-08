@@ -10,13 +10,13 @@
 ---
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Accessing the App](#accessing-the-app)
-3. [User Roles and Permissions](#user-roles-and-permissions)
-4. [Components and Modules](#components-and-modules)
-5. [DOs and DON'Ts](#dos-and-donts)
-6. [Best Practices](#best-practices)
-7. [Support](#support)
+1. [Introduction](#1-introduction)
+2. [Accessing the App](#2-accessing-the-app)
+3. [User Roles and Permissions](#3-user-roles-and-permissions)
+4. [Components and Modules](#4-components-and-modules)
+5. [DOs and DON'Ts](#5-dos-and-donts)
+6. [Best Practices](#6-best-practices)
+7. [Support](#7-support)
 
 ---
 
