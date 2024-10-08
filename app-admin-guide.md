@@ -42,6 +42,8 @@ This guide provides instructions for managing the **SAGAT App with AI** as an ad
   </ol>
 </details>
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## 3. User Roles and Permissions
@@ -68,6 +70,8 @@ This guide provides instructions for managing the **SAGAT App with AI** as an ad
 </ul>
 </details>
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## 4. Components and Modules
@@ -84,6 +88,8 @@ Allows admins to add, modify, and remove users, as well as assign roles.
   <li><strong>Editing User Permissions</strong>: Select a user, modify their roles, and click "Edit User."</li>
 </ul>
 </details>
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -112,6 +118,8 @@ Allows admins to add, modify, and remove users, as well as assign roles.
 </ul>
 </details>
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## 6. Best Practices
@@ -119,9 +127,13 @@ Allows admins to add, modify, and remove users, as well as assign roles.
 - Review logs to detect any suspicious activity.
 - Analyze SAGAT measurement results for quality assurance.
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## 7. Support
 For technical support, please contact:
 - **Email**: [sagat@lopesolutions.onmicrosoft.com](mailto:sagat@lopesolutions.onmicrosoft.com)
 - **Phone**: +34 625 112 734
+
+[Back to Table of Contents](#table-of-contents)
