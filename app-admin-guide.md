@@ -2,7 +2,7 @@
 
 **Version Control:**
 - **Version**: 1.0
-- **Last Updated**: October 8, 2024
+- **Last Updated**: October 9, 2024
 - **Author**: Gabriel Miranda
 
 > **Disclaimer**: This document is regularly updated. If you download or print it, note that newer versions may be available online.
