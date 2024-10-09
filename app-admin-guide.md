@@ -29,14 +29,14 @@ This guide provides instructions for managing the **SAGAT App with AI** as an ad
 ---
 
 ## 2. Accessing the App
-- **URL**: [SAGAT App](https://lopes-tracking.azurewebsites.net/)
+- **URL**: [SAGAT App](https://sagat.azurewebsites.net/login)
 - **Admin Username**: (confidential)
 - **Admin Password**: (confidential)
 
 <details>
 <summary>Step-by-Step Login</summary>
   <ol>
-    <li>Navigate to the <a href="https://lopes-tracking.azurewebsites.net/">SAGAT App URL</a>.</li>
+    <li>Navigate to the <a href="https://sagat.azurewebsites.net/login">SAGAT App URL</a>.</li>
     <li>Enter your admin username and password.</li>
     <li>If prompted, follow the two-factor authentication steps.</li>
   </ol>
